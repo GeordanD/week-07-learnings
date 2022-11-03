@@ -1,0 +1,39 @@
+.Hello {
+    background-color: rgb(4, 2, 97);
+    color: red;
+    display:flex;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+    justify-content: center;
+    align-content: center;
+    position: center;
+    width:fit-content;
+    border: 12px solid blue;
+
+}
+.Hello span {
+    background-color: blueviolet;
+    text-align: center;
+    margin: 43px;
+}
+.container {
+    background-color: blue;
+    text-align: center;
+
+}
+.flexItem {
+    color: black;
+    text-align: center;
+    font-weight: 800;
+    font-size: larger;
+
+}
+
+.flexItem {
+    background-color: red;
+    border: 1px solid black;
+    margin: 5px;
+    width: auto;
+    text-align: center;
+}
